@@ -11,11 +11,11 @@ A project is for practicing local database using. This Project is mainly focused
 4. Color Picking
 
 ## 3rd party Packages
-..* provider: ^4.0.0
-..*  sqflite: ^1.2.0
-..*  path_provider: ^1.5.1
-..*  path: ^1.6.4
-..*  image_picker: ^0.6.2+3
-..*  flutter_material_color_picker: ^1.0.5
+* provider: ^4.0.0
+*  sqflite: ^1.2.0
+*  path_provider: ^1.5.1
+*  path: ^1.6.4
+*  image_picker: ^0.6.2+3
+*  flutter_material_color_picker: ^1.0.5
 
 
