@@ -2,7 +2,7 @@
 
 A project is for practicing local database using. This Project is mainly focused on **database management**, image picking with **image picker** library. I am using **provider** package for state management. 
 
-## Flutter version 1.12.13+hotfix.5
+### Flutter version 1.12.13+hotfix.5
 
 ## Focusing area
 1. Database Interaction
