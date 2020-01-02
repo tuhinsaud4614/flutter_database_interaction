@@ -5,10 +5,10 @@ A project is for practicing local database using. This Project is mainly focused
 ## Flutter version 1.12.13+hotfix.5
 
 ## Focusing area
-..+ Database Interaction
-..+ Image Picking from camera and gallery
-..+ State management with provider
-..+ Color Picking
+1. Database Interaction
+2. Image Picking from camera and gallery
+3. State management with provider
+4. Color Picking
 
 ## 3rd party Packages
 ..* provider: ^4.0.0
